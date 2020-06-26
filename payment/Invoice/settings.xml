@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>Invoice Payment Module</name>
+	<settings>
+		<variable>invoice_api_key</variable>
+		<name>API Key</name>
+	</settings>
+	<settings>
+		<variable>invoice_login</variable>
+		<name>Login</name>
+	</settings>
+	<settings>
+		<variable>invoice_terminal_name</variable>
+		<name>Terminal Name</name>
+	</settings>
+</module>
